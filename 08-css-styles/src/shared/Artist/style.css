@@ -1,0 +1,13 @@
+.artist {
+  overflow: hidden;
+}
+
+.photo {
+  width: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.caption dt {
+  font-weight: bold;
+}

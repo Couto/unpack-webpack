@@ -1,0 +1,8 @@
+.Artist {
+  width: 250px;
+  background-color: #ff00da;
+}
+
+.Artist__photo {}
+
+.Artist__caption {}

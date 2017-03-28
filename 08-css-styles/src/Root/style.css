@@ -1,0 +1,16 @@
+.navigation-menu {
+  background: #f0f0f0;
+  height: 3rem;
+}
+
+.menu-item {
+  display: inline-block;
+  line-height: 3rem;
+  height: 100%;
+}
+
+.link {
+  display: block;
+  padding: 0 50px;
+  height: 100%;
+}

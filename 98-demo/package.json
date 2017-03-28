@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "build:dev": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.15",
+    "file-loader": "^0.10.1",
+    "html-webpack-plugin": "^2.28.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "name": "98-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
