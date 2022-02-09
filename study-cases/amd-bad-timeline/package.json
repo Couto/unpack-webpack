@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "dom-ready": "^1.0.6",
-    "mout": "^1.0.0",
+    "mout": "^1.2.3",
     "requirejs": "^2.3.3"
   },
   "dependencies": {
